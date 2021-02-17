@@ -8,7 +8,6 @@ i'm from brazil 🇧🇷 computer science student i'm passionate about technolog
 
 📍 I'm from Recife-PE
 
-computer Developper
 - 💻 Developper 
 
 
