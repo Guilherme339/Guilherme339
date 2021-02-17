@@ -6,7 +6,9 @@ i'm from brazil 🇧🇷 computer science student i'm passionate about technolog
 
 "Nenhum obstáculos será grande se a sua vontade de vencer for maior"💭
 
-📍 From Recife-PE living in Beagah
+📍 From PE living in Recife-PE
+
+computer Developper
 - 💻 Developper 
 
 
