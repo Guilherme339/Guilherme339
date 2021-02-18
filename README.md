@@ -1,6 +1,6 @@
 ### Hey👋
 
-My name is Guilherme martins,👍
+My name is Guilherme Martins,👍
 
 i'm from brazil 🇧🇷 computer science student i'm passionate about technology 👨‍💻
 
