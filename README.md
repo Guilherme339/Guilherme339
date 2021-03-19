@@ -22,8 +22,7 @@ i'm from brazil 🇧🇷 computer science student i'm passionate about technolog
   <img align="center" alt="gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
-  
-   ##
-  <div>
+
 reach me out 👇
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-martins-976096162/)](https://www.linkedin.com/in/guilherme-martins-97609612/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-martins-976096162/)](https://www.linkedin.com/in/guilherme-martins-97609612/) 
+
