@@ -1,4 +1,4 @@
-### OLÀ EU SOU  Guilherme Martins,👍
+### OLá EU Sou  Guilherme Martins,👍
 
 👨‍🎓 Sou estudante de ciência da computação
 
