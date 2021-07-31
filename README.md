@@ -1,8 +1,8 @@
 ### OLÁ👋
 
-ME CHAMO Guilherme Martins,👍
+Me Chamo Guilherme Martins,👍
 
-sou do brasil 🇧🇷 estudante de Ciência da Computação sou apaixonado por tecnologia 👨‍💻
+sou do brasil 🇧🇷 estudante de Ciência da Computação  e sou apaixonado por tecnologia 👨‍💻
 
 📍 I'm from Recife-PE
  
