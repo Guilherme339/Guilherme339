@@ -6,6 +6,8 @@
 
 - Moro no Brasil 🇧🇷 E sou apaixonado por tecnologia 👨‍💻
 
+- 🌱 Estudando Java
+
 - 📫  Contate- me no email: guilhermemartinssts8@gmail.com
  
 <div>
