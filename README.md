@@ -1,10 +1,10 @@
 ### Oiii! Sou o Guilherme Martins,👍
 
-👨‍🎓 Sou estudante de ciência da computação
+-👨‍🎓 Sou estudante de ciência da computação
 
-📍 I'm from Recife-PE
+-📍 I'm from Recife-PE
 
-Moro no Brasil 🇧🇷 E sou apaixonado por tecnologia 👨‍💻
+-Moro no Brasil 🇧🇷 E sou apaixonado por tecnologia 👨‍💻
 
 - 📫  Contate- me no email: guilhermemartinssts8@gmail.com
  
