@@ -1,4 +1,4 @@
-### Oiii! Me chamo Guilherme Martins,👍
+### Oiii! Sou o Guilherme Martins,👍
 
 👨‍🎓 Sou estudante de ciência da computação
 
