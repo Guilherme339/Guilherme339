@@ -2,9 +2,9 @@
 
 - 👨‍🎓 Sou estudante de ciência da computação
 
-- 📍 I'm from Recife-PE
-
 - Moro no Brasil 🇧🇷 E sou apaixonado por tecnologia 👨‍💻
+
+- 📍 I'm from Recife-PE
 
 - 🌱 Estudando Java
 
