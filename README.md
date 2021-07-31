@@ -1,10 +1,8 @@
-### Hey👋
+### OLÁ👋
 
-My name is Guilherme Martins,👍
+ME CHAMO Guilherme Martins,👍
 
-i'm from brazil 🇧🇷 computer science student i'm passionate about technology 👨‍💻
-
-"Nenhum obstáculos será grande se a sua vontade de vencer for maior"💭
+sou do brasil 🇧🇷 estudante de Ciência da Computação sou apaixonado por tecnologia 👨‍💻
 
 📍 I'm from Recife-PE
  
