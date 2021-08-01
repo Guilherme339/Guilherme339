@@ -8,6 +8,8 @@
 
 - 🌱 Estudando Java
 
+Nenhum obstáculos será grande se a sua vontade de vencer for maior!💭
+
 - 📫  Contate- me no email: guilhermemartinssts8@gmail.com
  
 <div>
