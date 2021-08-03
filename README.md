@@ -1,6 +1,6 @@
 ### Oiii! Sou o Guilherme Martins,👍
 
-- 👨‍🎓 estudante de ciência da computação
+- 👨‍🎓 Estudante de ciência da computação
 
 - Moro no Brasil 🇧🇷 E sou apaixonado por tecnologia 👨‍💻
 
