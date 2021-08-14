@@ -1,16 +1,8 @@
 ## Oiii! Sou o Guilherme Martins,👍
 
 - 👨‍🎓 Estudante de Ciência da computação
-
-- Moro no Brasil 🇧🇷 E sou apaixonado por tecnologia 👨‍💻
-
 - 📍 I'm from Recife-PE
-
 - 🌱 Estudando Java
-
-Nenhum obstáculos será grande se a sua vontade de vencer for maior!💭
-
-- 📫  Contate- me no email: guilhermemartinssts8@gmail.com
 <div>
   <a href="https://github.com/Guilherme339">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme339&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
